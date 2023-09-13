@@ -1,0 +1,11 @@
+{
+  "name": "atmatech-tesqa",
+  "version": "1.0.0",
+  "description": "automation testing api - tes qa",
+  "main": "index.js",
+  "author": "sitikhotimah",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
